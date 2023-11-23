@@ -1,0 +1,6 @@
+[submodule "uptask_frontend"]
+	path = uptask_frontend
+	url = https://github.com/danielurz/uptask_frontend
+[submodule "uptask_backend"]
+	path = uptask_backend
+	url = https://github.com/danielurz/uptask_backend
